@@ -23,4 +23,5 @@ Due to the rise in data analytics being used to help teams evaluate draft prospe
 
 ### Data Architecture Approach
 
-![Data Architecture Approach](attachment:image.png)
+(![pipeline](https://github.com/user-attachments/assets/1d111ac3-1a7b-430e-a584-dab8b26feaf8)
+
